@@ -1,3 +1,3 @@
 # Rapidiva
 
-https://rapidiva-empower-wheels.lovable.app/
+https://rapidiva.vercel.app/
